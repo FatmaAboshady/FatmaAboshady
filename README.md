@@ -74,6 +74,23 @@ Backend APIs using Nest.js with clean architecture principles
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FatmaAboshady&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FatmaAboshady&layout=compact&theme=radical)
+
+## 📜 Certifications
+
+- IBM AI Developer (2025)
+- Google UX Design (2023)
+- Full Stack Web Development Diploma, Route Academy (2022)
+- PHP Course, ITI (2022)
+
+## 🎓 Education
+
+**Bachelor's Degree in Computer Engineering**  
+Faculty of Engineering (Very Good) • 2017 - 2022
 <!--
 **FatmaAboshady/FatmaAboshady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
