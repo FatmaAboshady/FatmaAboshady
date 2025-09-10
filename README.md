@@ -39,6 +39,41 @@ Results-driven Backend & AI Developer with 3+ years of experience building and a
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37)
 
 
+## 💼 Professional Experience
+
+### Backend AI Developer @ IQRA Network (Remote)
+*02/2024 - Present*
+
+- Engineered a Social Media Automation System integrating ChatGPT and custom GPT models
+- Reduced manual content-creation workload by 60%+
+- Designed and deployed a Chatbot AI Customer Support Platform
+
+### Full-Stack Web Developer @ IQRA Network (Remote)
+*11/2022 - 01/2024*
+
+- Contributed to Mofawtar E-Invoice System with Nest.js backend APIs
+- Reduced invoice processing time by 50%
+
+## 🚀 Featured Projects
+
+### Customer Support Chatbot
+AI-powered chatbot with multi-Assistant architecture for intent classification and process handling  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+
+### Content Automation System
+Comprehensive platform integrating ChatGPT LLM and image processing for content creation  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+
+### Mofawtar E-Invoice System
+Backend APIs using Nest.js with clean architecture principles  
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+
 <!--
 **FatmaAboshady/FatmaAboshady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
